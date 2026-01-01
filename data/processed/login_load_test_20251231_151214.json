@@ -1,0 +1,15 @@
+{
+    "attempt": 1,
+    "report": {
+        "test_name": "login_load_test",
+        "summary": "Critical performance issues detected. Immediate action required.",
+        "details": {
+            "avg_response_time_ms": 695,
+            "error_rate": 3.48
+        }
+    },
+    "decision": {
+        "action": "RETRY",
+        "message": "Issue detected. Retrying test (attempt 2)."
+    }
+}

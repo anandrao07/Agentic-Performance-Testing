@@ -1,0 +1,15 @@
+{
+    "attempt": 1,
+    "report": {
+        "test_name": "login_load_test",
+        "summary": "Performance degradation detected. Review recommended.",
+        "details": {
+            "avg_response_time_ms": 786,
+            "error_rate": 0.55
+        }
+    },
+    "decision": {
+        "action": "RETRY",
+        "message": "Issue detected. Retrying test (attempt 2)."
+    }
+}

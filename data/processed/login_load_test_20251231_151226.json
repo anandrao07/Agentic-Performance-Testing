@@ -1,0 +1,15 @@
+{
+    "attempt": 1,
+    "report": {
+        "test_name": "login_load_test",
+        "summary": "System performance is within acceptable limits.",
+        "details": {
+            "avg_response_time_ms": 372,
+            "error_rate": 1.64
+        }
+    },
+    "decision": {
+        "action": "SUCCESS",
+        "message": "System healthy. No action required."
+    }
+}

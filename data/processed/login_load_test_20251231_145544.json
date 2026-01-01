@@ -1,0 +1,8 @@
+{
+    "test_name": "login_load_test",
+    "summary": "Critical performance issues detected. Immediate action required.",
+    "details": {
+        "avg_response_time_ms": 484,
+        "error_rate": 3.26
+    }
+}

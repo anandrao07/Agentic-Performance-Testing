@@ -1,0 +1,14 @@
+{
+    "report": {
+        "test_name": "login_load_test",
+        "summary": "Critical performance issues detected. Immediate action required.",
+        "details": {
+            "avg_response_time_ms": 648,
+            "error_rate": 4.49
+        }
+    },
+    "decision": {
+        "action": "ESCALATE",
+        "message": "Critical failure detected. Immediate investigation required."
+    }
+}

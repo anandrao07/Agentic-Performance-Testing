@@ -1,0 +1,9 @@
+test_name: login_load_test
+
+thresholds:
+  max_response_time_ms: 500
+  max_error_rate: 2.0
+
+retry_policy:
+  max_retries: 2
+  retry_delay_seconds: 2
